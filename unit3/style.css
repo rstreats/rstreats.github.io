@@ -1,0 +1,32 @@
+
+
+
+body {
+	background:url("images/background.jpg");
+	background-repeat: no-repeat;
+	font size:140px;
+	font-family:comic sans;
+	color:white;
+	font-weight: bold;
+	line-height: 50px;
+	}
+
+
+
+h1 {
+	font-size: 50px;
+	color: white;
+	font-family: comic sans;
+	line-height: 100px;
+	}
+
+	
+h2 {font-family: comic sans;
+	font-size: 20px;}
+
+.squares {
+
+	width: 70px;
+	height: 5px;
+	background: red;
+}
