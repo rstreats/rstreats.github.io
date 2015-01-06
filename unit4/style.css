@@ -1,0 +1,22 @@
+body {
+	background:url("images/cattleranch.jpg"); }
+
+
+.Header1 {
+	font-size: 100px;
+	font-style: bold;
+	font-family: 'Lobster', cursive;	
+	text-align: center;
+	color: white;
+	line-height: 350px;
+	}	
+
+
+
+.Contact {
+	font-size: 15px;
+	color: white;
+	text-align: right;
+	
+
+}	
