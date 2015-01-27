@@ -1,0 +1,15 @@
+body {
+	background:url("images/logo.jpg"); 
+	background-repeat: no-repeat;
+	background-size: 1030px 690px;
+}
+
+.Header {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: 15px;
+	line-height: 1150px;
+	font-style: 'comic sans';
+}
+
